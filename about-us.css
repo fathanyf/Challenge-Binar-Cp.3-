@@ -1,0 +1,109 @@
+
+.tentang-kami {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://bloximages.chicago2.vip.townnews.com/heraldandnews.com/content/tncms/assets/v3/editorial/5/6f/56f7d61f-3320-5f37-9426-70bda9ff3935/598e226650fa0.image.jpg?crop=1563%2C1172%2C101%2C0&resize=1563%2C1172&order=crop%2Cresize);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+
+.logo {
+    width: 5%;
+    height: 5%;
+    
+  }
+  
+  .navbar {
+    width: 100%;
+    margin: auto;
+    padding: 35px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .navbar ul li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+  
+  .navbar ul li a:hover {
+    color: greenyellow;
+    background-color: darkkhaki;
+  } 
+
+  .about-text {
+    width: 300px;
+    padding: 5px 10px 20px 30px;
+
+  }
+
+  .judul-tentang-kami {
+      color: white;
+  }
+
+  .isi-about-text {
+      color: whitesmoke;
+      margin: 5px 5px 5px 5px;
+  }
+
+.kelompok {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://s167.daydaynews.cc/?url=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_bt%2F0%2F12948202091%2F1000);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.isi-kelompok {
+  padding: 5px 5px 5px 5px;
+  color:black;
+}
+
+.carousel-inner {
+    height: 500px;
+    width: 50%;
+  }
+
+.persenjataan {
+    width: 100%;
+    height: 135vh;
+    background-image: url(https://insiderpaper.com/wp-content/uploads/2021/09/Untitled-1-3-990x521.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    opacity: 0.9;
+}
+
+.pengenalan-senjata {
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.pengenalan-senjata {
+  padding: 35px 5px 5px 5px;
+}
+
+.card-persenjataan {
+  margin-top: 20%;
+}
+
+.footer {
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 15px 10px 5px 5px;
+  }
